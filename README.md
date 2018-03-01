@@ -47,6 +47,7 @@ No Backend seria interessante seguir a estrutura comum para backend Java:
  * os pacotes entity também pode receber o nome de bean <br>
  * o pacote dao pode receber o nome de repository ou model <br>
  * o pacote rest pode receber o nome de controller <br>
+ 
  Obs:  podem ser criado outros pacotes para configuração, utilitarios, jobs, serviçoes,enums e interfaces que não sejam as DAOSs.
  ----------------------------------------------------
  
