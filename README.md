@@ -33,13 +33,13 @@ a estrutura do projeto deve seguir o padrão MVC e seguir boas praticas do merca
 
 No Backend seria interessante seguir a estrutura comum para backend Java:
  
- -- app
- -- app/main
- -- app/test
- -- app/main/entity
- -- app/main/dao
- -- app/main/business
- -- app/main/rest
+ -- app <br>
+ -- app/main <br>
+ -- app/test <br>
+ -- app/main/entity <br>
+ -- app/main/dao <br>
+ -- app/main/business <br>
+ -- app/main/rest <br>
  
  ----------------------------------------------------
  os pacotes entity também pode receber o nome de bean
