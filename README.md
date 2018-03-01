@@ -3,4 +3,24 @@ Sistema Cinema
 
 # Proposito
 
-<h2> Desenvolver conhecimentos da comunidade "Sem codigo Sem Problemas"
+<h2> Desenvolver conhecimentos da comunidade "No Code No Problems"
+
+Tecnologioas a Utilizar:
+
+Backend:
+- Java
+- Kotlin
+- SpringBoot
+- Spring Data
+- Outras..
+
+FrontEnd 
+- Angular ou React
+- Typescript
+- Bower
+- WebPack
+- Bootstrap
+
+
+
+
