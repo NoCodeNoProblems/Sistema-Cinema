@@ -31,6 +31,8 @@ segue a modelagem a seguir:
 
 a estrutura do projeto deve seguir o padrão MVC e seguir boas praticas do mercado:
 
+# Back
+
 No Backend seria interessante seguir a estrutura comum para backend Java:
  
  -- app <br>
@@ -48,6 +50,15 @@ No Backend seria interessante seguir a estrutura comum para backend Java:
  ----------------------------------------------------
  
  podem ser criado outros pacotes para configuração, utilitarios, jobs, serviçoes,enums e interfaces que não sejam as DAOSs.
+ 
+ link para ajuda em java segue o Core do Java: https://www.journaldev.com/7153/core-java-tutorial?utm_source=push&utm_medium=auto-notifications&utm_campaign=OneSignal-Push-Notification
+ 
+ link para algumas dicas de Spring e SpringBoot: https://domineospring.wordpress.com/2016/07/13/guia-das-annotations-do-spring/
+ 
+ link para algumas dicas de Spring Data JPA: http://blog.algaworks.com/spring-data-jpa/
+ 
+ 
+ # Front
  
  No Frontend podemos seguir o mesmo conceitos aplicados a framework de frontend porém de forma diferenciada.
  
