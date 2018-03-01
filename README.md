@@ -49,6 +49,7 @@ No Backend seria interessante seguir a estrutura comum para backend Java:
  * o pacote rest pode receber o nome de controller <br>
  
  Obs:  podem ser criado outros pacotes para configuração, utilitarios, jobs, serviçoes,enums e interfaces que não sejam as DAOSs.
+ 
  ----------------------------------------------------
  
  
